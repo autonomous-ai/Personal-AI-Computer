@@ -176,7 +176,7 @@ The on-prem build, for business. Develop, serve, and fine-tune with open models 
 
 ## Contributing
 
-Built one? Improved a part? Found a better component? See [**CONTRIBUTING.md**](CONTRIBUTING.md) — and [share your build](https://github.com/autonomous-ai/autonomous-computer/issues/new?template=share-your-build.md). The best community builds get featured.
+Built one? Improved a part? Found a better component? See [**CONTRIBUTING.md**](CONTRIBUTING.md) — and [share your build](https://github.com/autonomous-ai/Personal-AI-Computer/issues/new?template=share-your-build.md). The best community builds get featured.
 
 ## License
 
@@ -186,5 +186,5 @@ Open source under the [MIT License](LICENSE). Fork it, change it, build your own
 
 <div align="center">
 <b>Autonomous</b> — the AI hardware company.<br>
-Questions? <a href="https://github.com/autonomous-ai/autonomous-computer/issues">Open an issue.</a>
+Questions? <a href="https://github.com/autonomous-ai/Personal-AI-Computer/issues">Open an issue.</a>
 </div>
