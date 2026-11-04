@@ -21,7 +21,7 @@ Building from this guide is the full DIY path. If you'd rather skip sourcing, CN
 ## Build it
 
 1. **Parts** — the [bill of materials](bom/bom.md).
-2. **Housing** — print the [STL files](../4x-5090/stl-models) or CNC the [STEP files](../4x-5090/step_models); the [housing prep](docs/prepare-me.md) is what to check before anything electronic goes near it.
+2. **Housing** — print the [STL files](../4x-5090/stl-models) or CNC the [STEP files](../4x-5090/step_models) (or the [full case as one STEP assembly](../4x-5090/step_models/computer-4-case-2026-10-19.step.zip)); the [housing prep](docs/prepare-me.md) is what to check before anything electronic goes near it.
 3. **Lay out the electronics** — every part in the [bill of materials](bom/bom.md). Lay them all out and check them off before you start.
 4. **Assemble** — the [step-by-step assembly guide](docs/assembly.md), 23 steps from bare housing to closed box.
 5. **BIOS, drivers, testing** — the shared [BIOS tuning and GPU testing](../setup.md) guide. Board-specific notes below.

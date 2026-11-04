@@ -19,7 +19,7 @@ Building from this guide is the full DIY path. If you'd rather skip sourcing, CN
 ## Build it
 
 1. **Parts** — the [bill of materials](bom/bom.md).
-2. **Housing** — the [STL files](stl-models) and the [STEP files](step_models).
+2. **Housing** — the [STL files](stl-models) and the [STEP files](step_models), or the [full case as one STEP assembly](step_models/computer-4-case-2026-10-19.step.zip).
 3. **Lay out the electronics** — the [component checklist](docs/prepare-ee.md), with a photo of every part.
 4. **Assemble** — the [step-by-step assembly guide](docs/assembly.md), 23 steps from bare housing to closed box.
 5. **BIOS, drivers, testing** — the shared [BIOS tuning and GPU testing](../setup.md) guide. Board-specific notes below.
