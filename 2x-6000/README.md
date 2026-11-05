@@ -16,6 +16,8 @@ The workstation build: two RTX PRO 6000 Blackwell GPUs on an Intel Xeon W platfo
 
 Building from this guide is the full DIY path. If you'd rather skip sourcing, CNC, and assembly, we have it covered — [order the 2× 6000 built](https://www.autonomous.ai/computer-2).
 
+Building your own? Get the case kit with PCIe risers: [2-GPU case kit](https://www.autonomous.ai/computer-2). Not sure your parts fit? [Ask for a free fit check](https://github.com/autonomous-ai/Personal-AI-Computer/issues/new?template=fit-check.yml) or email dee@autonomous.ai, and we answer within a day.
+
 ## Build it
 
 1. **Parts** — the [bill of materials](bom/bom.md), with a photo of every component. Lay them all out and check them off before you start.

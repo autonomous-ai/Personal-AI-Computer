@@ -14,6 +14,8 @@ The on-prem build, for business: eight GPUs on a dual-EPYC (Genoa) platform in a
 
 Building from this guide is the full DIY path. If you'd rather skip sourcing, CNC, and assembly, we have it covered — [order the 8× 5090 built](https://www.autonomous.ai/computer-8).
 
+Building your own? Get the case kit with PCIe risers: [8-GPU case kit](https://www.autonomous.ai/computer-8). Not sure your parts fit? [Ask for a free fit check](https://github.com/autonomous-ai/Personal-AI-Computer/issues/new?template=fit-check.yml) or email dee@autonomous.ai, and we answer within a day.
+
 ## Build it
 
 1. **Parts** — the [bill of materials](bom/bom.md).
