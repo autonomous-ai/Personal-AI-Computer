@@ -23,6 +23,8 @@ Open software lets you run and shape your AI; open hardware lets you build, repa
 - **Open Source Hardware — this repo.** Your Personal AI Computer in five builds, below: every part, every bracket, every BIOS setting, every assembly photo.
 - **Open Source Software — your choice.** The easiest way is [Grid](https://github.com/autonomous-ai/autonomous-grid), the open orchestrator for local AI — but any local AI engine works: vLLM, Ollama, llama.cpp.
 
+Building your own? Get the case kit with PCIe risers: [2-GPU](https://www.autonomous.ai/computer-2), [4-GPU](https://www.autonomous.ai/computer-4) or [8-GPU](https://www.autonomous.ai/computer-8). Not sure your parts fit? [Ask for a free fit check](https://github.com/autonomous-ai/Personal-AI-Computer/issues/new?template=fit-check.yml) or email dee@autonomous.ai, and we answer within a day.
+
 ## 2× NVIDIA RTX 5090
 
 The entry-level build, for personal use. Enough for Llama, Qwen, and DeepSeek with quantization — run OpenClaw, Hermes Agent, or your own LangChain stack locally.

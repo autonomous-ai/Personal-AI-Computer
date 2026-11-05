@@ -1,0 +1,77 @@
+name: "Fit check: will my parts fit?"
+description: Planning your own build? Tell us your parts and we check they fit the case.
+title: "Fit check: "
+labels: ["fit-check"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us the parts you plan to use and we'll check they fit the case, and say what you'll need (risers, brackets) to make it work. We answer within a day.
+
+        Prefer email? Send the same details to dee@autonomous.ai.
+  - type: dropdown
+    id: case
+    attributes:
+      label: Which case?
+      options:
+        - 2-GPU
+        - 4-GPU
+        - 8-GPU
+    validations:
+      required: true
+  - type: input
+    id: motherboard
+    attributes:
+      label: Motherboard model
+      placeholder: e.g. ASUS W790 ACE
+    validations:
+      required: true
+  - type: input
+    id: cpu
+    attributes:
+      label: CPU model
+    validations:
+      required: true
+  - type: input
+    id: cooler
+    attributes:
+      label: CPU cooler
+      description: Air or liquid, the model, and its height (air) or radiator size (liquid).
+      placeholder: e.g. Air, Noctua NH-U14S, 165 mm
+    validations:
+      required: true
+  - type: textarea
+    id: gpus
+    attributes:
+      label: GPU models
+      description: Model, how many, and the length of each card.
+      placeholder: e.g. 2x RTX 5090, 304 mm each
+    validations:
+      required: true
+  - type: textarea
+    id: psu
+    attributes:
+      label: Power supplies
+      description: Model and how many.
+    validations:
+      required: true
+  - type: textarea
+    id: risers
+    attributes:
+      label: Risers needed
+      description: How many PCIe risers you need, and their length if you know it.
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: Other cards or drives
+      description: Network cards, capture cards, extra NVMe or SATA drives.
+    validations:
+      required: false
+  - type: input
+    id: country
+    attributes:
+      label: Country
+    validations:
+      required: false

@@ -18,6 +18,8 @@ The team build, in ECC: four RTX PRO 6000 Blackwell GPUs in a cube housing mille
 
 Building from this guide is the full DIY path. If you'd rather skip sourcing, CNC, and assembly, we have it covered — [order the 4× 6000 built](https://www.autonomous.ai/computer-4).
 
+Building your own? Get the case kit with PCIe risers: [kit link](https://www.autonomous.ai/computer-4). Not sure your parts fit? [Ask for a free fit check](https://github.com/autonomous-ai/Personal-AI-Computer/issues/new?template=fit-check.yml) or email dee@autonomous.ai, and we answer within a day.
+
 ## Build it
 
 1. **Parts** — the [bill of materials](bom/bom.md).
